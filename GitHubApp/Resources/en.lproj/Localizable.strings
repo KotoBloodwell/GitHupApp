@@ -1,0 +1,29 @@
+/* 
+  Localized.strings
+  GitHubApp
+
+  Created by Juliana Loaiza Labrador on 23/09/18.
+  Copyright © 2018 Juliana Loaiza Labrador. All rights reserved.
+*/
+
+//MARK: - General Use
+"ContentNotAvalaible" = "Content not avalaible";
+
+//MARK: - Search User
+"NoSearchResults" = "We did not fin any results for %1$@";
+
+//MARK: - User Detail
+"UserCreatedAt" = "Created: %1$@";
+"UserUpdatedAt" = "Updated: %1$@";
+"UserEmail" = "Email: %1$@";
+"UserBiography" = "Biography:  %1$@";
+"UserRepositories" = "Public Repos: %1$@";
+"UserGists" = "Public Gists: %1$@";
+"UserFollowers" = "Followers: %1$@";
+"UserFollowing" = "Following: %1$@";
+
+//MARK: HyperLinks
+"GitHubURL" = "https://github.com/%1$@";
+"GitHubURLRepos" = "https://github.com/%1$@?tab=repositories";
+"GitHubURLFollowers" = "https://github.com/%1$@?tab=followers";
+"GitHubURLFollowing" = "https://github.com/%1$@?tab=following";
